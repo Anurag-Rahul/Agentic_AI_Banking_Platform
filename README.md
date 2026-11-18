@@ -51,4 +51,4 @@ ANTHROPIC_API_KEY=your_key_here
 
 ## Built by
 
-Gauri Gupta · MSc Quantitative Finance 
+Anurag Rahul · MSc Business Analytics
